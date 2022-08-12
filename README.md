@@ -1,3 +1,6 @@
+## PaymentScope
+PaymentScope is a static binary analysis tool (on top of Ghidra) to automatically identify vulnerable IAP implementations in mobile games. Through modeling of its IAP protocols with the SDK provided APIs using a payment-aware data flow analysis, PaymentScope directly pinpoints untrusted payment verification vulnerabilities in Unity based Android game native binaries. We have implemented \sysname
+
 ## Environment Requirements
 * Linux operating system
 * Java 11
