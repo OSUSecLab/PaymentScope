@@ -1,0 +1,220 @@
+[
+    {
+        "function_name": "UnityEngine.Purchasing.Product$$get_receipt",
+        "type": "source"
+    },
+    {
+        "function_name": "System.String$$Concat",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$IsNullOrEmpty",
+        "type": "sink"
+    },
+    {
+        "function_name": "UnityEngine.Debug$$Log",
+        "type": "sink"
+    },
+    {
+        "function_name": "System.String$$Contains",
+        "type": "sink"
+    },
+    {
+        "function_name": "System.String$$op_Equality",
+        "type": "sink"
+    },
+    {
+        "function_name": "UnityEngine.Purchasing.Security.CrossPlatformValidator$$Validate",
+        "type": "sink"
+    },
+    {
+        "function_name": "System.String$$get_Length",
+        "type": "sink"
+    },
+    {
+        "function_name": "UnityEngine.Debug$$LogError",
+        "type": "sink"
+    },
+    {
+        "function_name": "System.String$$Compare",
+        "type": "sink"
+    },
+    {
+        "function_name": "UnityEngine.Debug$$LogWarning",
+        "type": "sink"
+    },
+    {
+        "function_name": "System.String$$Equals",
+        "type": "sink"
+    },
+    {
+        "function_name": "UnityEngine.MonoBehaviour$$print",
+        "type": "sink"
+    },
+    {
+        "function_name": "Google.Protobuf.ProtoPreconditions$$CheckNotNull<string>",
+        "type": "sink"
+    },
+    {
+        "function_name": "DebugUtil$$Log",
+        "type": "sink"
+    },
+    {
+        "function_name": "System.String$$op_Inequality",
+        "type": "sink"
+    },
+    {
+        "function_name_start": "System.Collections.Generic.Dictionary<",
+        "function_name_end": ">$$ContainsKey",
+        "type": "sink"
+    },
+    {
+        "function_name": "System.String$$Substring",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$ToCharArray",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "Newtonsoft.Json.JsonConvert$$DeserializeObject<object>",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "Newtonsoft.Json.Linq.JObject$$Parse",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$Format",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$Replace",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "UnityEngine.JsonUtility$$FromJson<GooglePurchaseData.GooglePurchaseReceipt>",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "Facebook.MiniJSON.Json$$Deserialize",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$IndexOf",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Collections.Generic.Dictionary<object,-int>$TryGetValue",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "JsonFx.Json.JsonReader$$Deserialize",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Convert$$ToSingle",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Convert$$ToDouble",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "UnityEngine.JsonUtility$$FromJson<GooglePlayPurchaseReceipt.sPayloadData>",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "LitJson.JsonMapper$$ToObject",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Collections.Generic.Dictionary<AnimationClip,-int>$TryGetValue",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Convert$$ToInt64",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "Newtonsoft.Json.JsonConvert$$DeserializeObject",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Collections.Generic.Dictionary<Material,-Material>$TryGetValue",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$ToString",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "UnityEngine.Purchasing.MiniJSON.Json$$Deserialize",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$ToLower",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "Kongregate.Json$$Deserialize",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "JsonFx.Json.JsonReader$$Deserialize<object>",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$Split",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "java.lang.StringEx$$GetBytes",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Convert$$FromBase64String",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Convert$$ToInt32",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "Prime31.Json$$decodeSystem.String$$Concat",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$Trim",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.String$$get_Chars",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "UnityEngine.JsonUtility$$FromJson<object>",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "UnityEngine.Purchasing.MiniJson$$JsonDecode",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "System.Collections.Generic.Dictionary<Type,-IStoreExtension>$$get_Item",
+        "type": "propagate2return"
+    },
+    {
+        "function_name": "JsonManager$$Deserialize<UnityReceipt>",
+        "type": "propagate2return"
+    },
+    {
+        "function_name_start": "UnityEngine.JsonUtility$$FromJson<",
+        "type": "propagate2return"
+    },
+    {
+        "function_name_start": "System.Collections.Generic.Dictionary<",
+        "function_name_end": ">$$get_Item",
+        "type": "propagate2return"
+    }
+]
