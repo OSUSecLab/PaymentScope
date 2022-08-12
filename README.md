@@ -125,7 +125,7 @@ Among them, the final analysis result file is the most important one. Here  is a
             "unityBuildin": false
         }
     },
-    "executablePath": "/home/cszuo/..._libil2cpp.so",
+    "executablePath": "/home/..._libil2cpp.so",
     "leafes": [3],
     "pname": "com.kbpro.MashaPuzzles",
     "leafInfo": {"Ending_API": ["UnityEngine.Debug$$Log [3]"]},
@@ -137,3 +137,13 @@ There are several fields in it and the following ones are important:
 * `leafInfo` contains the node types of leaf nodes which are used to decide the payment verification type. 
 * `isVulnerable` it indicates the payment verification type. `no-verification`, `local-verification`, or `remote-verification`. For ethical reason, we have set this field to `None`.
 
+### Citing
+
+```
+@inproceedings{zuoplaying,
+  title={Playing Without Paying: Detecting Vulnerable Payment Verification in Native Binaries of Unity Mobile Games},
+  author={Zuo, Chaoshun and Lin, Zhiqiang}
+  booktitle={31th USENIX Security Symposium (USENIX Security 22)},
+  year=2022,
+}
+```
